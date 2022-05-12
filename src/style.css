@@ -1,0 +1,126 @@
+.caixa{
+    display:flex;
+    margin-bottom: 20px;
+}
+.pag4{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.imgg{
+    margin-right: 280px;
+}
+.anuncio{
+    margin-top: 50px;
+    width: 240px;
+    height: 120px;
+    background: blue;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    margin-left: 5px;
+}
+.anuncio2{
+    display: flex;
+    overflow-x:scroll;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+.imgg2{
+    margin-right: 120px;
+    
+}
+.ab{
+    width:80px;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+
+}
+.imgCompra{
+    margin-left: 60px;
+    height: 250px;
+    width:250px;
+}
+.compras{
+    margin-left: 160px; 
+}
+.comprasp{
+    
+    font-size:30px;
+}
+.nomeMarca{
+    
+    width:300px;
+    margin-left: 40px;
+    display: flex;
+    justify-content: center;
+}
+.cart{
+    display: flex;
+    margin-bottom: 20px;
+}
+.inf{
+    width: 150px;
+    height: 115px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+
+  
+}
+.botao{
+    width: 80px;
+    height: 115px;
+    
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.botao2{
+    height:25px;
+    width: 25px;
+    background: rgb(43, 143, 235);
+}
+.fim{
+    display:flex;
+  
+
+}
+.item{
+    margin-right: 150px;
+   
+    width: 80px;
+}
+.item2{
+    
+    display: flex;
+    flex-direction: row-reverse;
+    width:100px;
+}
+.b{
+    height:70px;
+    width:350px;
+    border-radius: 35px;
+    background: rgb(43, 143, 235);
+}
+.linha{
+    background: black;
+    height: 0.5px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.orders{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.box{
+    width:50px;
+    height:50px;
+    margin-left: 10px;
+    background: red;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
